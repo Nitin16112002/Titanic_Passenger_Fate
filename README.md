@@ -20,7 +20,7 @@ Below are the accuracy scores for different models:
 | **AdaBoostClassifier** | 83.06% | 75.00% | 83.06% |
 | **GradientBoostingClassifier** | 83.06% | 75.00% | 83.06% |
 | **XGBClassifier** | 86.13% | 75.00% | 83.23% |
-| **Artificial Neural Network (ANN)** | - | **80.14%** | **81.77%** |
+| **Artificial Neural Network (ANN)** | **83%** | **80.14%** | **81.77%** |
 
 ---
 
